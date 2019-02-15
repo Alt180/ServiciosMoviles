@@ -11,7 +11,7 @@ public class ReleasedService {
     private String date;
     private String rTime;
     private String aTime;
-    private String fOrder;
+
 
     public ReleasedService() {
     }
@@ -109,11 +109,4 @@ public class ReleasedService {
         this.aTime = aTime;
     }
 
-    public String getfOrder() {
-        return fOrder;
-    }
-
-    public void setfOrder(String fOrder) {
-        this.fOrder = fOrder;
-    }
 }

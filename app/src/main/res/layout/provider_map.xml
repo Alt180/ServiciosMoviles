@@ -67,6 +67,7 @@
             android:text="@string/btn_cancel"
             android:textColor="@color/common_google_signin_btn_text_dark_default"
             android:visibility="invisible"/>
+
     </RelativeLayout>
 
     <ListView
